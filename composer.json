@@ -1,0 +1,9 @@
+{
+  "name": "Dan Bing Image Search",
+  "description": "Bing Image Search",
+  "require": {
+    "pear/http_request2": "~2.3.0"
+  },
+  "require-dev": {
+  }
+}
